@@ -79,6 +79,6 @@ class Dog extends Animal{
     }
 }
 
-const dog = new Dog('Ratinho', '02/12/2020', 0.5,'branco com listras' ,'Vira-lata', true);
+const dog = new Dog('ManoBro', '02/12/2020', 0.5,'branco com listras' ,'Vira-lata', true);
 
 dog.walk();

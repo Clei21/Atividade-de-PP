@@ -1,7 +1,8 @@
 class Person{
+    
     name: string;
     age: number;
-    weight: number;
+     weight: number;
 
     constructor(name:string, age:number, weight:number){
         this.age = age;
